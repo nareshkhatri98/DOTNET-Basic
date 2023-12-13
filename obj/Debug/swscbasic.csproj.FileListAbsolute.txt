@@ -1,0 +1,7 @@
+D:\Dot net\swscbasic\bin\Debug\swscbasic.exe.config
+D:\Dot net\swscbasic\bin\Debug\swscbasic.exe
+D:\Dot net\swscbasic\bin\Debug\swscbasic.pdb
+D:\Dot net\swscbasic\obj\Debug\swscbasic.csproj.AssemblyReference.cache
+D:\Dot net\swscbasic\obj\Debug\swscbasic.csproj.CoreCompileInputs.cache
+D:\Dot net\swscbasic\obj\Debug\swscbasic.exe
+D:\Dot net\swscbasic\obj\Debug\swscbasic.pdb
