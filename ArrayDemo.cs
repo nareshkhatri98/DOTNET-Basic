@@ -71,7 +71,7 @@ namespace swscbasic
                 new int[] {1,2,3,4,5},
                 new int[] {6,7,8},
                 new int[] {12,13},
-                new int []{14,15,16}
+                new int[] {14,15,16}
 
             };
 
@@ -85,6 +85,23 @@ namespace swscbasic
                 {
                     Console.Write(data[i][j]);
                 }
+                Console.WriteLine();
+            }
+
+
+            Console.WriteLine("--- find out the sum of each row---");
+
+            for( int i = 0; i<data.Length; i++)
+            {
+                int Sum = 0;
+                for(int j=0; j < data[i].Length; j++)
+                {
+
+                    Console.Write(data[i][j] + " ");
+                   
+                    Sum = Sum + data[i][j];
+                }
+                Console.WriteLine("the sum of row " +Sum  );
                 Console.WriteLine();
             }
         }

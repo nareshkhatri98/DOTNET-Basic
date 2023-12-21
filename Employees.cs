@@ -24,7 +24,10 @@ namespace swscbasic
         }
         public void displayEmployees()
         {
+
             Console.WriteLine("id is " + this.id);
+
+            Console.WriteLine("-------------------");
             Console.WriteLine("name is " + this.name);
             Console.WriteLine("department is" + this.department);
             Console.WriteLine("salary is " + this.salary);

@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "swscbasic", "swscbasic.cspr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvanceDotnet", "..\AdvanceDotnet\AdvanceDotnet.csproj", "{870210FD-3458-4CBC-96BB-7C6A6082CCBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseConnectivity", "..\DatabaseConnectivity\DatabaseConnectivity.csproj", "{7889CC25-2A13-426B-A0F5-02ABC1BDCC8B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{870210FD-3458-4CBC-96BB-7C6A6082CCBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{870210FD-3458-4CBC-96BB-7C6A6082CCBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{870210FD-3458-4CBC-96BB-7C6A6082CCBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7889CC25-2A13-426B-A0F5-02ABC1BDCC8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7889CC25-2A13-426B-A0F5-02ABC1BDCC8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7889CC25-2A13-426B-A0F5-02ABC1BDCC8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7889CC25-2A13-426B-A0F5-02ABC1BDCC8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
